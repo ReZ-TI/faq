@@ -9,6 +9,7 @@ reviewed_by: null
 reviewed_at: null
 sources:
   - ../sources/README.md
+  - https://csa-iot.org/certification/transfer-program/
 ---
 
 # FAQ-COM-014 · Do you support Matter certification transfer?
@@ -17,15 +18,16 @@ sources:
 
 ## Answer
 
-Yes. We can transfer the Matter certification of an already certified product to your brand, so you can sell the certified product under your own name without starting certification from scratch. The fee is calculated per model and transfer scope, covering the transfer fee, annual fee and ongoing maintenance responsibility, and is confirmed in writing once you provide the target models and quantities. If you prefer to use your own Vendor ID and DAC, we can evaluate that option as well.
+For certified models that meet the conditions of the CSA Certification Transfer Program (CTP), we can assist with the application. Whether a transfer is possible and how it is handled depends on the original certification holder, the specific model and the scope of changes compared with the original certification; once approved, the certified product can be sold under the customer's brand. Send us the target model, the planned change scope and the quantity, and we will check eligibility and confirm the fee structure in writing.
 
 ## Scope
 
-Models that already hold Matter certification. Models without certification are not eligible.
+Assistance is available for certified models that meet CSA CTP conditions. Holding Matter certification alone is not sufficient: the CTP also requires that the certification terminal is held by a member participating in the programme (Participant/Promoter) and is registered in it, that the applicant meets the eligibility criteria, and that the product is unchanged in function and keeps the same device type and capabilities. Models that do not meet these conditions are outside this answer.
 
 ## Basis and open items (internal verification, not published with the answer)
 
-- Basis: [Sources and confirmed business rules](../sources/README.md).
-- Open: fee level, whether it is uniform across models, multi-model package discounts, and how the customer-held Vendor ID versus our DAC would be quoted are all unsettled. No amount may appear in the public answer. Also confirm that the CSA annual fee is a third-party fee not collected by us.
+- Basis (public): CSA certification transfer programme description <https://csa-iot.org/certification/transfer-program/> (participant eligibility, membership and registration requirements, unchanged product and same device type).
+- Basis (restricted): internal evidence ledger **FAQ-EVID-2026-11-05 §5** — October 2026 outbound position (CTP supported), not published here.
+- Open: fee level and whether it is uniform per model, package discounts, and how customer-held Vendor ID versus our DAC would be quoted; the CSA annual fee is a third-party fee not collected by us. **No amount appears in the public answer.**
 
-[中文版本](../zh-CN/FAQ-COM-014.md) · [Index](README.md)
+[Chinese version](../zh-CN/FAQ-COM-014.md) · [Index](README.md)
