@@ -14,7 +14,7 @@ This directory uses the ten existing website FAQs already merged into main as it
 | FAQ-COM-008 | [Do you test products before shipment?](FAQ-COM-008.md) |
 | FAQ-COM-009 | [What certifications do your products carry?](FAQ-COM-009.md) |
 | FAQ-COM-010 | [Are your products Matter and Thread compatible?](FAQ-COM-010.md) |
-| FAQ-COM-011 | [Which product categories do you manufacture?](FAQ-COM-011.md) |
+| FAQ-COM-011 | [Which product categories do you offer?](FAQ-COM-011.md) |
 | FAQ-COM-012 | [Can the same motor be supplied in both Tuya and Matter versions?](FAQ-COM-012.md) |
 | FAQ-COM-013 | [Do Matter over Thread devices need a gateway?](FAQ-COM-013.md) |
 | FAQ-COM-014 | [Do you support Matter certification transfer?](FAQ-COM-014.md) |

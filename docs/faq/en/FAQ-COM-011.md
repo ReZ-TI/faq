@@ -11,17 +11,17 @@ sources:
   - ../sources/README.md
 ---
 
-# FAQ-COM-011 · Which product categories do you manufacture?
+# FAQ-COM-011 · Which product categories do you offer?
 
 > Draft pending review. Not published to the website.
 
 ## Answer
 
-Our product lines cover smart switches and scene panels, smart sockets, curtain and roller-blind motors, sensors, lighting and luminaires, home hubs and gateways, and VRF air-conditioner controllers. Whether a specific capability is available — for example 0/1–10V dimming, mmWave sensing or a Thread border router — and which protocol version applies are assessed per model. Tell us the categories and target quantities and we will map them to specific models before confirming configuration and price.
+Our product range covers smart switches and scene panels, smart sockets, curtain and roller-blind motors, sensors, lighting and luminaires, home hubs and gateways, and VRF air-conditioner controllers. Whether a specific capability is available — for example 0/1–10V dimming, mmWave sensing or a Thread border router — and which protocol version applies are assessed per model. Tell us the categories and target quantities and we will map them to specific models before confirming configuration and price.
 
 ## Scope
 
-The smart-home categories registered in our product catalogue. Specifications, feature combinations and certifications must be verified model by model and cannot be inferred from a category name.
+The smart-home categories available in our product catalogue. This does not imply that every listed item is manufactured by us; the catalogue includes sourced lighting products. Specifications, feature combinations and certifications must be verified model by model and cannot be inferred from a category name.
 
 ## Basis and open items (internal verification, not published with the answer)
 
