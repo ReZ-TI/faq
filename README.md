@@ -2,17 +2,19 @@
 
 从客户 RFQ 中提炼通用问题，通过 Issue 提建议、PR 对比修改，再由 Kelvin 审核。
 
-**公开知识库：ReZ-TI/faq，任何人都可查阅。** 修改表单已经可用；6 组中英文答案样例仍在待审核 PR 中。
+**公开知识库：ReZ-TI/faq，任何人都可查阅。** 本次整理官网既有 10 组中英文 FAQ 原文，迁移待审核；6 组新增或修订草稿仍保留在独立 PR #2。
 
 | 我想做什么 | 打开这里 |
 |---|---|
+| 阅读官网原有中文 FAQ | [中文原文目录](docs/faq/website-original/zh-CN/README.md) |
+| Read existing English FAQ | [English originals](docs/faq/website-original/en/README.md) |
 | 阅读知识库说明 | [FAQ 首页](docs/faq/README.md) |
 | 预览中文问答草稿 | [中文目录](https://github.com/ReZ-TI/faq/blob/codex/faq-content-sample-20261105/docs/faq/zh-CN/README.md) |
 | Preview English FAQ drafts | [English index](https://github.com/ReZ-TI/faq/blob/codex/faq-content-sample-20261105/docs/faq/en/README.md) |
 | 提交一个新问题或修改建议 | [填写 FAQ 修改建议](https://github.com/ReZ-TI/faq/issues/new?template=faq-change.yml) |
 | 查看待审核修改 | [Pull requests](https://github.com/ReZ-TI/faq/pulls) |
 | 学会提交与审核 | [团队操作说明](docs/faq/CONTRIBUTING.md) |
-| 查看原官网 10 条 FAQ | [来源与待核验事项](docs/faq/sources/README.md) |
+| 查看原官网 FAQ 来源与备注 | [来源与待核验事项](docs/faq/sources/README.md) |
 
 ## 团队怎么用
 

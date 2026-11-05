@@ -2,6 +2,12 @@
 
 [返回首页](../README.md)
 
+## 可直接阅读的官网原文
+
+本次按官网实际语言分别读取，新增 [中文原文目录](../website-original/zh-CN/README.md) 和 [English originals](../website-original/en/README.md)，共 10 组中英文问答。
+
+[2026-11-05 来源数据](2026-11-05-website-faq.json)保存各自问题、答案与页面地址。英文直接采用现有官网英文，不是新翻译；中文 MOQ 的截断和两种语言的差异均保持原样。迁移 PR 不代表新的产品能力或业务承诺审批。
+
 ## 官网快照
 
 - 来源：https://www.rez-ti.com/faq
