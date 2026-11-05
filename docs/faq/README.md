@@ -6,6 +6,8 @@
 
 | 我想做什么 | 从这里开始 |
 |---|---|
+| 修改官网中文 FAQ | [中文编辑目录](zh-CN/README.md) |
+| Edit existing English FAQ | [English working directory](en/README.md) |
 | 阅读官网原有中文 FAQ | [中文原文目录](website-original/zh-CN/README.md) |
 | Read existing English FAQ | [English originals](website-original/en/README.md) |
 | 看新增中文草稿 | [中文目录](https://github.com/ReZ-TI/faq/blob/codex/faq-content-sample-20261105/docs/faq/zh-CN/README.md) |
