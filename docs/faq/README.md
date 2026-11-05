@@ -6,8 +6,8 @@
 
 | 我想做什么 | 从这里开始 |
 |---|---|
-| 查中文问答 | [中文目录](https://github.com/ReZ-TI/faq/blob/codex/faq-content-sample-20261105/docs/faq/zh-CN/README.md) |
-| 查英文问答 | [English index](https://github.com/ReZ-TI/faq/blob/codex/faq-content-sample-20261105/docs/faq/en/README.md) |
+| 查中文问答 | [中文目录](zh-CN/README.md) |
+| 查英文问答 | [English index](en/README.md) |
 | 提一个修改建议 | [查看示例修改建议 #1](https://github.com/ReZ-TI/faq/issues/1) |
 | 学会提交与审核 | [团队操作说明](CONTRIBUTING.md) |
 | 看现有官网原文与待核验问题 | [来源说明](sources/README.md) |
