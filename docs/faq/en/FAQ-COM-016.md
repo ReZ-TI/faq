@@ -17,15 +17,16 @@ sources:
 
 ## Answer
 
-Brand-level customisation is available: panel logo, packaging and multilingual manuals can carry your brand, and firmware customisation can be discussed on the device side. For the app we offer both a shared app and a white-label path; how far the customisation can go, what it costs and who owns the user data have to be assessed per project and confirmed in writing. Please start by telling us your target user scale, whether you need to publish your own app listing, and whether the data must be fully private.
+Both brand-level and app-level customisation are assessed per project: whether panel markings, packaging and multilingual manuals can carry your brand, whether firmware can be customised on the device side, and whether the app follows our shared app or a white-label path, all have to be confirmed item by item once the target models, user scale and data requirements are known. Please tell us first whether you need your own app listing and whether the data must be fully private, and we will confirm the feasible scope and cost in writing.
 
 ## Scope
 
-Brand and firmware customisation are assessed per project; not every model supports a white-label app.
+Assessed per project; this is not a general commitment for any model. Whether a given model supports firmware customisation or a white-label app depends on the assessment.
 
 ## Basis and open items (internal verification, not published with the answer)
 
-- Basis: [Sources and confirmed business rules](../sources/README.md).
-- Open: white-label licensing model, fees, who hosts the cloud service and the data-ownership terms have no agreed position; no fee may be promised in the public answer.
+- Basis (restricted): internal evidence ledger **FAQ-EVID-2026-11-05 §4** — only an outbound communication position exists; there is no written policy or pricing document.
+- Withdrawn claim: the first draft promised brand-level customisation of logo, packaging and multilingual manuals as available. That turned an unconfirmed capability into a commitment and is now "assessed per project".
+- Open: white-label licensing model and fees, cloud hosting party, data-ownership terms, list of models eligible for customisation.
 
-[中文版本](../zh-CN/FAQ-COM-016.md) · [Index](README.md)
+[Chinese version](../zh-CN/FAQ-COM-016.md) · [Index](README.md)
