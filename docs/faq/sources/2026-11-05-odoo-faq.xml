@@ -1,0 +1,90 @@
+<t t-name="website.faq">
+    <t t-call="website.layout">
+        <div id="wrap" class="oe_structure oe_empty"><section class="s_faq_horizontal o_colored_level pb0" data-snippet="s_faq_horizontal" data-name="Topics List">
+        <div class="container">
+            <div class="row">
+                <div data-name="Heading" class="col-lg-6 offset-lg-3 pt48 pb48 o_colored_level">
+                    <p style="text-align: center;"><span class="h1-fs"><strong>常见问题</strong></span></p><div data-name="Accordion" data-snippet="s_accordion" class="s_accordion">
+        <div id="myCollapse" class="accordion">
+            <div class="accordion-item position-relative z-1" data-name="Accordion Item">
+                <button type="button" class="accordion-header accordion-button gap-2 bg-transparent h6-fs fw-bold text-decoration-none text-reset transition-none collapsed justify-content-between" data-bs-toggle="collapse" aria-expanded="false" id="accordion-button899699_1" data-bs-target="#myCollapseTab899699_1" aria-controls="myCollapseTab899699_1"><span class="flex-grow-1">您是制造商还是贸易公司？</span></button>
+                <div class="accordion-collapse collapse" data-bs-parent="#myCollapse" role="region" id="myCollapseTab899699_1" aria-labelledby="accordion-button899699_1">
+                    <div class="accordion-body">
+                        <p>雷泽智能（Rez-TI）是一家专注于 Matter 原生智能家居硬件的制造商，产品涵盖开关、窗帘电机、传感器、照明驱动器、网关及 Thread 边界路由器。</p><p><br/></p>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item position-relative z-1" data-name="Accordion Item">
+                <button type="button" class="accordion-header accordion-button gap-2 bg-transparent h6-fs fw-bold text-decoration-none text-reset transition-none collapsed justify-content-between" data-bs-toggle="collapse" aria-expanded="false" id="accordion-button899699_2" data-bs-target="#myCollapseTab899699_2" aria-controls="myCollapseTab899699_2"><span class="flex-grow-1">可以先订购样品再下批量订单吗？</span></button>
+                <div class="accordion-collapse collapse" data-bs-parent="#myCollapse" role="region" id="myCollapseTab899699_2" aria-labelledby="accordion-button899699_2">
+                    <div class="accordion-body">
+                        <p>可以，大多数产品支持先订购单件样品，确认满意后再下批量订单。</p></div>
+                </div>
+            </div>
+            <div class="accordion-item position-relative z-1" data-name="Accordion Item">
+                <button type="button" class="accordion-header accordion-button gap-2 bg-transparent h6-fs fw-bold text-decoration-none text-reset transition-none collapsed justify-content-between" data-bs-toggle="collapse" aria-expanded="false" id="accordion-button899699_3" data-bs-target="#myCollapseTab899699_3" aria-controls="myCollapseTab899699_3"><span class="flex-grow-1">你们的最小起订量（MOQ）是多少？</span></button>
+                <div class="accordion-collapse collapse" data-bs-parent="#myCollapse" role="region" id="myCollapseTab899699_3" aria-labelledby="accordion-button899699_3">
+                    <div class="accordion-body">
+                        <p>起订量因产品系列而异。请告知您感兴趣的产品及采购数量，我们将为您确认具体的最小起</p>
+                    </div>
+                </div>
+            </div><div class="accordion-item position-relative z-1" data-name="Accordion Item">
+                <button type="button" class="accordion-header accordion-button gap-2 bg-transparent h6-fs fw-bold text-decoration-none text-reset transition-none collapsed justify-content-between" data-bs-toggle="collapse" aria-expanded="false" id="myCollapseBtn1785726004589" data-bs-target="#myCollapseTab1785726004588" aria-controls="myCollapseTab1785726004588"><span class="flex-grow-1">你们支持 OEM/ODM 定制吗？</span></button>
+                <div class="accordion-collapse collapse" data-bs-parent="#myCollapse" role="region" id="myCollapseTab1785726004588" aria-labelledby="myCollapseBtn1785726004589">
+                    <div class="accordion-body">
+                        <p>支持，我们可根据需求定制参数、接口类型、线缆长度，以及在适用产品上提供标志印刷/刻字服务。</p>
+                    </div>
+                </div>
+            </div><div class="accordion-item position-relative z-1" data-name="Accordion Item">
+                <button type="button" class="accordion-header accordion-button gap-2 bg-transparent h6-fs fw-bold text-decoration-none text-reset transition-none collapsed justify-content-between" data-bs-toggle="collapse" aria-expanded="false" id="myCollapseBtn1785726005943" data-bs-target="#myCollapseTab1785726005942" aria-controls="myCollapseTab1785726005942"><span class="flex-grow-1">你们的付款方式是什么？</span></button>
+                <div class="accordion-collapse collapse" data-bs-parent="#myCollapse" role="region" id="myCollapseTab1785726005942" aria-labelledby="myCollapseBtn1785726005943">
+                    <div class="accordion-body">
+                        <p>我们接受 T/T（电汇）、信用证（L/C）等标准贸易付款方式，具体条款将在订单洽谈中确认。</p>
+                    </div>
+                </div>
+            </div><div class="accordion-item position-relative z-1" data-name="Accordion Item">
+                <button type="button" class="accordion-header accordion-button gap-2 bg-transparent h6-fs fw-bold text-decoration-none text-reset transition-none justify-content-between collapsed" data-bs-toggle="collapse" aria-expanded="false" id="myCollapseBtn1785726574250" data-bs-target="#myCollapseTab1785726574249" aria-controls="myCollapseTab1785726574249"><span class="flex-grow-1">你们支持哪些运输方式？</span></button>
+                <div class="accordion-collapse collapse" data-bs-parent="#myCollapse" role="region" id="myCollapseTab1785726574249" aria-labelledby="myCollapseBtn1785726574250">
+                    <div class="accordion-body">
+                        <p>我们支持海运、空运、快递、陆运及多式联运，具体方式根据买家需求安排。</p>
+                    </div>
+                </div>
+            </div><div class="accordion-item position-relative z-1" data-name="Accordion Item">
+                <button type="button" class="accordion-header accordion-button gap-2 bg-transparent h6-fs fw-bold text-decoration-none text-reset transition-none justify-content-between collapsed" data-bs-toggle="collapse" aria-expanded="false" id="myCollapseBtn1785726598649" data-bs-target="#myCollapseTab1785726598648" aria-controls="myCollapseTab1785726598648"><span class="flex-grow-1">你们的质保政策是什么？</span></button>
+                <div class="accordion-collapse collapse" data-bs-parent="#myCollapse" role="region" id="myCollapseTab1785726598648" aria-labelledby="myCollapseBtn1785726598649">
+                    <div class="accordion-body">
+                        <p>质保期限因产品类别而异。请联系我们了解您所采购产品的具体质保条款。</p>
+                    </div>
+                </div>
+            </div><div class="accordion-item position-relative z-1" data-name="Accordion Item">
+                <button type="button" class="accordion-header accordion-button gap-2 bg-transparent h6-fs fw-bold text-decoration-none text-reset transition-none justify-content-between collapsed" data-bs-toggle="collapse" aria-expanded="false" id="myCollapseBtn1785726634811" data-bs-target="#myCollapseTab1785726634810" aria-controls="myCollapseTab1785726634810"><span class="flex-grow-1">发货前会对产品进行测试吗？</span></button>
+                <div class="accordion-collapse collapse" data-bs-parent="#myCollapse" role="region" id="myCollapseTab1785726634810" aria-labelledby="myCollapseBtn1785726634811">
+                    <div class="accordion-body">
+                        <p>会，所有产品在发货前均经过质量测试，确保功能正常。</p>
+                    </div>
+                </div>
+            </div><div class="accordion-item position-relative z-1" data-name="Accordion Item">
+                <button type="button" class="accordion-header accordion-button gap-2 bg-transparent h6-fs fw-bold text-decoration-none text-reset transition-none justify-content-between collapsed" data-bs-toggle="collapse" aria-expanded="false" id="myCollapseBtn1785726660970" data-bs-target="#myCollapseTab1785726660969" aria-controls="myCollapseTab1785726660969"><span class="flex-grow-1">你们的产品具备哪些认证？</span></button>
+                <div class="accordion-collapse collapse" data-bs-parent="#myCollapse" role="region" id="myCollapseTab1785726660969" aria-labelledby="myCollapseBtn1785726660970">
+                    <div class="accordion-body">
+                        <p>认证范围因产品线而异。请联系我们获取与您目标市场相关的认证文件。</p>
+                    </div>
+                </div>
+            </div><div class="accordion-item position-relative z-1" data-name="Accordion Item">
+                <button type="button" class="accordion-header accordion-button gap-2 bg-transparent h6-fs fw-bold text-decoration-none text-reset transition-none justify-content-between collapsed" data-bs-toggle="collapse" aria-expanded="false" id="myCollapseBtn1785726684641" data-bs-target="#myCollapseTab1785726684640" aria-controls="myCollapseTab1785726684640"><span class="flex-grow-1">你们的产品是否兼容 Matter 和 Thread？</span></button>
+                <div class="accordion-collapse collapse" data-bs-parent="#myCollapse" role="region" id="myCollapseTab1785726684640" aria-labelledby="myCollapseBtn1785726684641">
+                    <div class="accordion-body">
+                        <p>是的 — 雷泽智能定位为中国首家纯 Matter 原生智能家居解决方案提供商，旗下互联产品线均支持 Thread。</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+                    <p style="text-align:center;"><br/></p>
+                </div>
+            </div>
+            
+        </div>
+    </section></div>
+    </t>
+</t>

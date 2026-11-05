@@ -1,0 +1,86 @@
+name: "FAQ 修改建议"
+description: "从客户询价或产品资料提出新增、修订、翻译建议，由负责人审核。"
+title: "[FAQ] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请写通用问题和依据。客户原文件保留在 Odoo / Nextcloud，只填写受限链接或内部编号。
+        提交建议不会自动改变 FAQ。事实不明的地方写“待核验”。
+  - type: dropdown
+    id: change-type
+    attributes:
+      label: "修改类型"
+      options:
+        - "新增问题"
+        - "修订已有答案"
+        - "补充或修正翻译"
+        - "旧答案失效"
+    validations:
+      required: true
+  - type: input
+    id: faq-id
+    attributes:
+      label: "已有 FAQ 编号"
+      description: "新增问题可填“新建”，不要自行占用正式编号。"
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: "客户问题"
+      description: "提炼通用问题，去除客户身份和项目专有信息。"
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: "适用范围"
+      description: "产品、规格、控制方式、目标市场；未知处写待核验。"
+    validations:
+      required: true
+  - type: dropdown
+    id: source-type
+    attributes:
+      label: "依据类型"
+      options:
+        - "真实客户 RFQ"
+        - "产品资料或测试记录"
+        - "负责人已确认业务规则"
+        - "模拟示例"
+        - "暂缺依据，需收集"
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: "来源与依据"
+      description: "填写 RFQ、商品资料、测试的受限链接或内部编号；不要粘贴客户原始附件。"
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: "建议答案与修改原因"
+      description: "已有答案哪里不适用？新答案的依据是什么？尚未验证的事实是什么？"
+    validations:
+      required: true
+  - type: dropdown
+    id: audience
+    attributes:
+      label: "建议公开范围"
+      options:
+        - "待审核后公开"
+        - "仅内部使用"
+        - "无法判断，由负责人确认"
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: "提交前确认"
+      options:
+        - label: "已去除客户姓名、联系方式、议价金额及项目专有信息。"
+          required: true
+        - label: "未确认的参数、认证、交期和兼容性已明确写为待核验。"
+          required: true
