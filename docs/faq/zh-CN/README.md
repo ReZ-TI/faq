@@ -1,6 +1,6 @@
 # 官网 FAQ · 中文编辑目录
 
-本目录以已合入 main 的 10 条官网原有 FAQ 为编辑基线。本次保持问答正文不变，只建立便于后续提交修改的目录。
+本目录以已合入 main 的 10 条官网原有 FAQ 为编辑基线。其中 FAQ-COM-003、FAQ-COM-010 的修订建议与 FAQ-COM-011 至 FAQ-COM-016 的新增草稿见对应文件，均为 `status: draft`，未经审核。
 
 | 编号 | 问题 |
 |---|---|
@@ -14,6 +14,14 @@
 | FAQ-COM-008 | [发货前会对产品进行测试吗？](FAQ-COM-008.md) |
 | FAQ-COM-009 | [你们的产品具备哪些认证？](FAQ-COM-009.md) |
 | FAQ-COM-010 | [你们的产品是否兼容 Matter 和 Thread？](FAQ-COM-010.md) |
+| FAQ-COM-011 | [你们能做哪些品类？](FAQ-COM-011.md) |
+| FAQ-COM-012 | [同一款电机能不能既有 Tuya 版又有 Matter 版？](FAQ-COM-012.md) |
+| FAQ-COM-013 | [Matter over Thread 的设备需要网关吗？](FAQ-COM-013.md) |
+| FAQ-COM-014 | [你们的 Matter 产品支持认证转移吗？](FAQ-COM-014.md) |
+| FAQ-COM-015 | [能提供 CE、RoHS 等合规文件吗？](FAQ-COM-015.md) |
+| FAQ-COM-016 | [能不能用我们自己的 App 和品牌？](FAQ-COM-016.md) |
+
+FAQ-COM-011 至 FAQ-COM-016 为本批新增草稿，全部待审核，尚未发布到官网。
 
 后续修改请保留编号、来源和中英对应关系，通过 PR 审阅。原有截断和待核验表述在条目中留有备注。
 
