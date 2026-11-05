@@ -17,15 +17,16 @@ sources:
 
 ## Answer
 
-Yes. The same curtain motor can be supplied in four versions: Tuya Wi-Fi, Tuya Zigbee, native Matter over Wi-Fi and native Matter over Thread. All four share the same motor and housing; only the communication module differs, so appearance, mounting dimensions and load rating are identical. You pick the version for the ecosystem you target, and switching version later does not require redesigning the unit. Unit price and lead time are confirmed per quotation.
+Within the curtain motor range, selected models can be supplied in different communication versions such as Tuya Wi-Fi, Tuya Zigbee, Matter over Wi-Fi or Matter over Thread. Whether they share the same motor and housing, and whether load ratings and certification coverage are identical, is assessed per model and must be confirmed from that model's datasheet and certificates. Send us the ecosystem you target and the quantity, and we will map it to a specific model before confirming version, price and lead time.
 
 ## Scope
 
-The curtain and roller-blind motor series we have reviewed. Whether other motor products offer the same four versions must be verified per model.
+Only models already confirmed to offer multiple communication versions. The model list is to be completed after checking registered models; certification coverage differs between versions and cannot be carried over from one to another.
 
 ## Basis and open items (internal verification, not published with the answer)
 
-- Basis: [Sources and confirmed business rules](../sources/README.md).
-- Open: certification coverage differs between versions (Tuya versions do not carry Matter certification), so the public answer must not claim identical certification; whether the four versions stay at the same price has not been settled.
+- Basis (restricted): internal evidence ledger **FAQ-EVID-2026-11-05 §2** — October 2026 outbound reply record held in restricted internal mail archive, not published here.
+- Withdrawn claim: the first draft stated that all four versions share the same motor and housing with identical appearance and load rating and differ only in the communication module. That lacked model-level evidence and is now replaced with "assessed per model".
+- Open: available model list, certification coverage per version, whether the versions are priced the same — all need product-line and certification sign-off.
 
-[中文版本](../zh-CN/FAQ-COM-012.md) · [Index](README.md)
+[Chinese version](../zh-CN/FAQ-COM-012.md) · [Index](README.md)
