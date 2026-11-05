@@ -1,0 +1,101 @@
+{
+  "captured_on": "2026-11-05",
+  "purpose": "Original website FAQ migration; not a new verification or approval of product claims",
+  "odoo_source_write_date_utc": "2026-08-04 03:58:24",
+  "pages": [
+    {
+      "url": "https://www.rez-ti.com/faq",
+      "locale": "zh-CN",
+      "accept_language": "zh-CN,zh;q=0.9",
+      "entries": [
+        {
+          "question": "您是制造商还是贸易公司？",
+          "answer": "雷泽智能（Rez-TI）是一家专注于 Matter 原生智能家居硬件的制造商，产品涵盖开关、窗帘电机、传感器、照明驱动器、网关及 Thread 边界路由器。"
+        },
+        {
+          "question": "可以先订购样品再下批量订单吗？",
+          "answer": "可以，大多数产品支持先订购单件样品，确认满意后再下批量订单。"
+        },
+        {
+          "question": "你们的最小起订量（MOQ）是多少？",
+          "answer": "起订量因产品系列而异。请告知您感兴趣的产品及采购数量，我们将为您确认具体的最小起"
+        },
+        {
+          "question": "你们支持 OEM/ODM 定制吗？",
+          "answer": "支持，我们可根据需求定制参数、接口类型、线缆长度，以及在适用产品上提供标志印刷/刻字服务。"
+        },
+        {
+          "question": "你们的付款方式是什么？",
+          "answer": "我们接受 T/T（电汇）、信用证（L/C）等标准贸易付款方式，具体条款将在订单洽谈中确认。"
+        },
+        {
+          "question": "你们支持哪些运输方式？",
+          "answer": "我们支持海运、空运、快递、陆运及多式联运，具体方式根据买家需求安排。"
+        },
+        {
+          "question": "你们的质保政策是什么？",
+          "answer": "质保期限因产品类别而异。请联系我们了解您所采购产品的具体质保条款。"
+        },
+        {
+          "question": "发货前会对产品进行测试吗？",
+          "answer": "会，所有产品在发货前均经过质量测试，确保功能正常。"
+        },
+        {
+          "question": "你们的产品具备哪些认证？",
+          "answer": "认证范围因产品线而异。请联系我们获取与您目标市场相关的认证文件。"
+        },
+        {
+          "question": "你们的产品是否兼容 Matter 和 Thread？",
+          "answer": "是的 — 雷泽智能定位为中国首家纯 Matter 原生智能家居解决方案提供商，旗下互联产品线均支持 Thread。"
+        }
+      ]
+    },
+    {
+      "url": "https://www.rez-ti.com/en/faq",
+      "locale": "en-US",
+      "accept_language": "en-US,en;q=0.9",
+      "entries": [
+        {
+          "question": "Are you a manufacturer or a trading company?",
+          "answer": "Rez-TI is a manufacturer specializing in Matter-native smart home hardware, including switches, curtain motors, sensors, lighting drivers, hubs, and Thread Border Routers."
+        },
+        {
+          "question": "Can I order a sample before placing a bulk order?",
+          "answer": "Yes, single-unit sample orders are available for most products before committing to a bulk order."
+        },
+        {
+          "question": "What is your MOQ (minimum order quantity)?",
+          "answer": "MOQ varies by product line. Contact us with your product of interest and order volume, and we'll confirm the applicable minimum."
+        },
+        {
+          "question": "Do you support OEM/ODM customization?",
+          "answer": "Yes, we support OEM/ODM including custom parameters, connector types, cable lengths, and logo printing/engraving on applicable products."
+        },
+        {
+          "question": "What are your payment terms?",
+          "answer": "We accept T/T (wire transfer), L/C, and other standard trade payment methods, with terms confirmed during order discussion."
+        },
+        {
+          "question": "What shipping methods do you support?",
+          "answer": "We support sea freight, air freight, express courier, land transport, and multimodal shipping, arranged according to buyer requirements."
+        },
+        {
+          "question": "What is your warranty policy?",
+          "answer": "Warranty terms vary by product category. Contact us for the specific warranty details on the product you're sourcing."
+        },
+        {
+          "question": "Do you test products before shipment?",
+          "answer": "Yes, all products undergo quality testing before shipping to ensure proper function."
+        },
+        {
+          "question": "What certifications do your products carry?",
+          "answer": "Certification coverage varies by product line. Contact us for the certification documentation relevant to your target market."
+        },
+        {
+          "question": "Are your products Matter and Thread compatible?",
+          "answer": "Yes — Rez-TI is positioned as China's first pure Matter-native smart home solution provider, with Thread support across our connected product lines."
+        }
+      ]
+    }
+  ]
+}
