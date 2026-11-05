@@ -6,6 +6,8 @@
 
 | 我想做什么 | 打开这里 |
 |---|---|
+| 修改官网中文 FAQ | [中文编辑目录](docs/faq/zh-CN/README.md) |
+| Edit existing English FAQ | [English working directory](docs/faq/en/README.md) |
 | 阅读官网原有中文 FAQ | [中文原文目录](docs/faq/website-original/zh-CN/README.md) |
 | Read existing English FAQ | [English originals](docs/faq/website-original/en/README.md) |
 | 阅读知识库说明 | [FAQ 首页](docs/faq/README.md) |
