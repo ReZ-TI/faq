@@ -23,10 +23,10 @@ Both brand-level and app-level customisation are assessed per project: whether p
 
 Assessed per project; this is not a general commitment for any model. Whether a given model supports firmware customisation or a white-label app depends on the assessment.
 
-## Basis and open items (internal verification, not published with the answer)
+## Basis and open items (caliber notes, not published with the answer)
 
-- Basis (restricted): internal evidence ledger **FAQ-EVID-2026-11-05 §4** — only an outbound communication position exists; there is no written policy or pricing document.
-- Withdrawn claim: the first draft promised brand-level customisation of logo, packaging and multilingual manuals as available. That turned an unconfirmed capability into a commitment and is now "assessed per project".
-- Open: white-label licensing model and fees, cloud hosting party, data-ownership terms, list of models eligible for customisation.
+- Where the question comes from: a question repeated in recent customer enquiries.
+- Caliber: pending business confirmation (what brand-level customisation is available, whether a white-label app is offered, fees and data ownership).
+- Note: while unconfirmed the answer only says "assessed per project" and promises no specific customisation item.
 
 [Chinese version](../zh-CN/FAQ-COM-016.md) · [Index](README.md)

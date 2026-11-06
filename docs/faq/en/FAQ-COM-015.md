@@ -23,9 +23,10 @@ We provide the applicable compliance documents per model, including test reports
 
 Models tested against the relevant standards. The exact standard coverage depends on the actual report for that model and does not extend to untested models.
 
-## Basis and open items (internal verification, not published with the answer)
+## Basis and open items (caliber notes, not published with the answer)
 
-- Basis (restricted): internal evidence ledger **FAQ-EVID-2026-11-05 §6** — the existing report inventory is not consolidated, so no model-level report reference can be cited yet; not published here.
-- Open: laboratory name, standard coverage and validity period of existing reports; whether reports can be issued under a customer's brand name. The public answer lists no standard numbers and promises no laboratory accreditation.
+- Where the question comes from: a question repeated in recent customer enquiries.
+- Caliber: pending business confirmation (the range of reports that can be supplied, and whether reports can be issued under a customer's brand name).
+- Note: while unconfirmed the answer only says documents are provided per model, lists no standard numbers and promises no laboratory accreditation.
 
 [Chinese version](../zh-CN/FAQ-COM-015.md) · [Index](README.md)

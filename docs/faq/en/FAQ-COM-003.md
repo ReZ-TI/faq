@@ -31,10 +31,10 @@ The minimum order quantity depends on the product series, model and customisatio
 
 A proposed completion of website FAQ item 3. It does not introduce a universal MOQ and does not replace terms already confirmed for a product.
 
-## Basis and open items (internal verification, not published with the answer)
+## Basis and open items (caliber notes, not published with the answer)
 
-- Basis: the original website answer above and [Sources](../sources/README.md).
-- This change: the Chinese source ends mid-sentence ("具体的最小起"); this draft completes the wording and adds "no single figure" and "sample orders confirmed separately".
-- Open: MOQ per category and quantity tiers are not documented, so no figures appear in the public answer. Restricted basis: internal evidence ledger **FAQ-EVID-2026-11-05 §7**.
+- Where the question comes from: a question repeated in recent customer enquiries.
+- Caliber: pending business confirmation. This page only completes the truncated sentence in the website original and adds no quantity conditions.
+- External reference: the current website FAQ <https://www.rez-ti.com/faq>.
 
 [Chinese version](../zh-CN/FAQ-COM-003.md) · [Index](README.md)
