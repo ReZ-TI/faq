@@ -15,7 +15,7 @@
 | FAQ-COM-009 | [你们的产品具备哪些认证？](FAQ-COM-009.md) |
 | FAQ-COM-010 | [你们的产品是否兼容 Matter 和 Thread？](FAQ-COM-010.md) |
 | FAQ-COM-011 | [你们能做哪些品类？](FAQ-COM-011.md) |
-| FAQ-COM-012 | [同一款电机能不能既有 Tuya 版又有 Matter 版？](FAQ-COM-012.md) |
+| FAQ-COM-012 | [你们的 Matter 产品能接入涂鸦吗？](FAQ-COM-012.md) |
 | FAQ-COM-013 | [Matter over Thread 的设备需要网关吗？](FAQ-COM-013.md) |
 | FAQ-COM-014 | [你们的 Matter 产品支持认证转移吗？](FAQ-COM-014.md) |
 | FAQ-COM-015 | [能提供 CE、RoHS 等合规文件吗？](FAQ-COM-015.md) |

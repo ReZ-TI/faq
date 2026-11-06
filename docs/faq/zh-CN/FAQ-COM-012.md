@@ -4,29 +4,33 @@ locale: zh-CN
 status: draft
 audience: public_candidate
 owner: kelvinchen1119
-evidence_checked_on: 2026-11-05
+evidence_checked_on: 2026-11-06
 reviewed_by: null
 reviewed_at: null
 sources:
   - ../sources/README.md
+  - https://developer.tuya.com/en/docs/iot/interoperability?id=Kd5alaz2qujgj
+  - https://developer.tuya.com/en/docs/iot/Matter_technical_framework?id=Kd5alv7fmhgl9
 ---
 
-# FAQ-COM-012 · 同一款电机能不能既有 Tuya 版又有 Matter 版？
+# FAQ-COM-012 · 你们的 Matter 产品能接入涂鸦吗？
 
 > 待审核草稿，尚未发布到官网。
 
 ## 答案
 
-窗帘电机系列中，部分型号可按目标生态选择 Tuya Wi-Fi、Tuya Zigbee、Matter over Wi-Fi 或 Matter over Thread 等通信版本。是否共用同一电机与结构、负载能力和认证覆盖是否一致，按型号评估，以该型号的规格书与认证文件为准。请提供目标生态与数量，我们对应到具体型号后再确认版本、单价与交期。
+通常可以。涂鸦已支持 Matter，我们的 Matter over Thread 产品通常可通过支持 Matter over Thread 的兼容涂鸦网关接入涂鸦生态。接入前需核对网关型号、固件、App 版本、手机系统，以及对相应第三方 Matter 设备类型和所需功能的支持情况。
+
+通过 Matter 接入涂鸦，与设备本身同时支持 Tuya Zigbee 和 Matter over Thread 是两回事。目前我们的标准供货版本不支持在同一设备上同时使用这两种协议；如有同机双协议需求，需要单独提出定制开发需求，按具体型号评估。请提供产品型号、涂鸦网关型号及希望实现的功能，我们协助确认方案。
 
 ## 适用范围
 
-仅适用于已确认提供多个通信版本的窗帘与卷帘电机型号。具体型号清单待在册型号核对后补充；不同通信版本的认证覆盖不同，不能互相套用。
+适用于提供 Matter 控制版本的产品。私人定制灯具须先确认实际选择了 Matter 版本。涂鸦接入能力以网关、App、手机系统和设备类型的实际支持为准；具体型号的认证覆盖分别核对。
 
 ## 依据与待确认（口径说明，不随答案对外发布）
 
-- 问题来源：近期客户询价中重复出现的问题。
-- 口径确认：2026-10-29 对客答复已采用此口径（同系列可提供多个通信版本），属公司业务口径，非客观事实。
-- 待业务确认：可用型号清单、各版本认证覆盖、是否同价；未确认前不写「共用同一电机与结构」这类结论。
+- 业务确认：负责人 kelvinchen1119 于 2026-11-06 确认 Matter 产品通常可通过兼容涂鸦网关接入；标准版本不同时支持 Tuya Zigbee 与 Matter over Thread，同机双协议须单独定制评估。见[来源说明](../sources/README.md)。
+- 公开技术依据：[涂鸦 Matter 产品互通说明](https://developer.tuya.com/en/docs/iot/interoperability?id=Kd5alaz2qujgj)及 [Matter 架构与平台支持表](https://developer.tuya.com/en/docs/iot/Matter_technical_framework?id=Kd5alv7fmhgl9)。网关及 App/手机系统的支持范围需要核对。
+- 待逐单确认：目标网关、具体设备类型与功能、认证覆盖，以及双协议定制的可行性、费用、起订量和交期。
 
 [对应英文](../en/FAQ-COM-012.md) · [返回目录](README.md)

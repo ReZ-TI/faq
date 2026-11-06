@@ -4,29 +4,33 @@ locale: en
 status: draft
 audience: public_candidate
 owner: kelvinchen1119
-evidence_checked_on: 2026-11-05
+evidence_checked_on: 2026-11-06
 reviewed_by: null
 reviewed_at: null
 sources:
   - ../sources/README.md
+  - https://developer.tuya.com/en/docs/iot/interoperability?id=Kd5alaz2qujgj
+  - https://developer.tuya.com/en/docs/iot/Matter_technical_framework?id=Kd5alv7fmhgl9
 ---
 
-# FAQ-COM-012 · Can the same motor be supplied in both Tuya and Matter versions?
+# FAQ-COM-012 · Can your Matter products connect to Tuya?
 
 > Draft pending review. Not published to the website.
 
 ## Answer
 
-Within the curtain motor range, selected models can be supplied in different communication versions such as Tuya Wi-Fi, Tuya Zigbee, Matter over Wi-Fi or Matter over Thread. Whether they share the same motor and housing, and whether load ratings and certification coverage are identical, is assessed per model and must be confirmed from that model's datasheet and certificates. Send us the ecosystem you target and the quantity, and we will map it to a specific model before confirming version, price and lead time.
+Usually, yes. Tuya supports Matter, and our Matter over Thread products can generally join the Tuya ecosystem through a compatible Tuya gateway with Matter over Thread support. Before pairing, confirm the gateway model and firmware, app version, phone operating system, and support for the relevant third-party Matter device type and required functions.
+
+Connecting to Tuya through Matter is different from running Tuya Zigbee and Matter over Thread simultaneously on the same device. Our standard product versions do not currently support both protocols at the same time. If you need this, it requires a separate custom-development request and an assessment for the specific model. Please share the product model, Tuya gateway model and intended functions so we can confirm a suitable solution.
 
 ## Scope
 
-Only models already confirmed to offer multiple communication versions. The model list is to be completed after checking registered models; certification coverage differs between versions and cannot be carried over from one to another.
+Products offered with a Matter control option. For custom lighting, first confirm that the selected configuration is the Matter version. Tuya connectivity depends on the gateway, app, phone operating system and supported device type. Certification coverage must be checked for each model.
 
-## Basis and open items (caliber notes, not published with the answer)
+## Business confirmation and open items (not published with the answer)
 
-- Where the question comes from: a question repeated in recent customer enquiries.
-- Caliber: this position was already used in a customer reply on 2026-10-29 (the same series can be supplied in several communication versions). It is a company business position, not an objective fact.
-- Pending business confirmation: the available model list, certification coverage per version, and whether versions are priced the same; until then no "shared motor and housing" conclusion is stated.
+- Business confirmation: on 2026-11-06, kelvinchen1119 confirmed general Tuya connectivity through a compatible gateway and that standard versions do not run Tuya Zigbee and Matter over Thread simultaneously; dual-protocol requirements need a separate custom-development assessment. See [Sources](../sources/README.md).
+- Public technical references: [Tuya Matter interoperability](https://developer.tuya.com/en/docs/iot/interoperability?id=Kd5alaz2qujgj) and [Matter architecture and platform support](https://developer.tuya.com/en/docs/iot/Matter_technical_framework?id=Kd5alv7fmhgl9). Check the gateway, app and phone-platform support for the project.
+- Confirm per order: gateway, device type and functions, certification coverage, and the feasibility, cost, MOQ and lead time of dual-protocol custom development.
 
 [Chinese version](../zh-CN/FAQ-COM-012.md) · [Index](README.md)
