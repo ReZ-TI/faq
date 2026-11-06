@@ -23,10 +23,10 @@ Within the curtain motor range, selected models can be supplied in different com
 
 Only models already confirmed to offer multiple communication versions. The model list is to be completed after checking registered models; certification coverage differs between versions and cannot be carried over from one to another.
 
-## Basis and open items (internal verification, not published with the answer)
+## Basis and open items (caliber notes, not published with the answer)
 
-- Basis (restricted): internal evidence ledger **FAQ-EVID-2026-11-05 §2** — October 2026 outbound reply record held in restricted internal mail archive, not published here.
-- Withdrawn claim: the first draft stated that all four versions share the same motor and housing with identical appearance and load rating and differ only in the communication module. That lacked model-level evidence and is now replaced with "assessed per model".
-- Open: available model list, certification coverage per version, whether the versions are priced the same — all need product-line and certification sign-off.
+- Where the question comes from: a question repeated in recent customer enquiries.
+- Caliber: this position was already used in a customer reply on 2026-10-29 (the same series can be supplied in several communication versions). It is a company business position, not an objective fact.
+- Pending business confirmation: the available model list, certification coverage per version, and whether versions are priced the same; until then no "shared motor and housing" conclusion is stated.
 
 [Chinese version](../zh-CN/FAQ-COM-012.md) · [Index](README.md)

@@ -23,11 +23,10 @@ Our product range covers smart switches and scene panels, smart sockets, curtain
 
 The smart-home categories available in our product catalogue. This does not imply that every listed item is manufactured by us; the catalogue includes sourced lighting products. Specifications, feature combinations and certifications must be verified model by model and cannot be inferred from a category name.
 
-## Basis and open items (internal verification, not published with the answer)
+## Basis and open items (caliber notes, not published with the answer)
 
-- Basis (restricted): internal evidence ledger **FAQ-EVID-2026-11-05 §1** — product-catalogue category statistics read on 2026-11-06, listing category names and the number of registered models in each. The ledger is not published in this repository.
-- `sources` here points to the public repository sources; restricted items are looked up by number in the internal ledger.
-- Open: whether dimming modules, mmWave presence sensors and Thread border routers exist as registered models (no separate category is visible), so they are not stated in the answer.
-- No customer information, prices or internal identifiers appear in the public answer.
+- Where the question comes from: a question repeated in recent customer enquiries.
+- Caliber: the category range is our customer-facing business position, compiled by sales on 2026-11-05 from the current product catalogue; business-owner confirmation is still to be added.
+- Pending business confirmation: whether 0/1–10V dimming modules, mmWave presence sensors and Thread border routers are offered as separate models — until confirmed the answer only says "assessed per model".
 
 [Chinese version](../zh-CN/FAQ-COM-011.md) · [Index](README.md)
