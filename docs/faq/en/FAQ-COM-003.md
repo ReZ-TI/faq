@@ -1,36 +1,17 @@
 ---
 id: FAQ-COM-003
 locale: en
-status: draft
-content_origin: website_original
-source_published: true
-source_url: https://www.rez-ti.com/en/faq
-imported_on: 2026-11-05
-reviewed_by: null
-reviewed_at: null
+status: approved
+audience: public_candidate
+owner: kelvinchen1119
+reviewed_by: kelvinchen1119
+reviewed_at: 2026-11-06
 ---
 
 # FAQ-COM-003 · What is your MOQ (minimum order quantity)?
 
-> Existing website FAQ · Repository import pending review. The original answer is preserved; this is not a proposed rewrite.
+## Answer
 
-## Original website answer
+The minimum order quantity depends on the product series, model and customisation requirements — there is no single figure. Please share the product you are interested in and the target quantity, and we will confirm the MOQ and quotation terms for that model during the enquiry. Sample orders and bulk orders are confirmed separately.
 
-MOQ varies by product line. Contact us with your product of interest and order volume, and we'll confirm the applicable minimum.
-
-## Source
-
-- Website: https://www.rez-ti.com/en/faq
-- Original position: 3 / 10
-- Captured on: 2026-11-05
-- [Complete source data](../sources/2026-11-05-website-faq.json)
-
-## Import notes (not part of the original answer)
-
-The Chinese source ends mid-sentence; the English source is complete. Both are imported unchanged. A proposed correction remains separate in PR #2.
-
-[Separate revision drafts in PR #2](https://github.com/ReZ-TI/faq/pull/2)
-
-[Chinese original](../zh-CN/FAQ-COM-003.md) · [Back to index](README.md)
-
-[Compare the archived website original](../website-original/en/FAQ-COM-003.md)
+[中文](../zh-CN/FAQ-COM-003.md) · [Index](README.md)

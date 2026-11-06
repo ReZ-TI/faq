@@ -1,36 +1,25 @@
 ---
 id: FAQ-COM-010
 locale: zh-CN
-status: draft
-content_origin: website_original
-source_published: true
-source_url: https://www.rez-ti.com/faq
-imported_on: 2026-11-05
-reviewed_by: null
-reviewed_at: null
+status: approved
+audience: public_candidate
+owner: kelvinchen1119
+reviewed_by: kelvinchen1119
+reviewed_at: 2026-11-06
 ---
 
 # FAQ-COM-010 · 你们的产品是否兼容 Matter 和 Thread？
 
-> 官网既有 FAQ 原文 · 仓库迁移待审核。此页保持原答案，不是新增修订稿。
+## 答案
 
-## 官网原文
+除私人定制灯具外，我们主推 Matter over Thread 产品。根据客户需求，可免收开发费适配为 Matter over Wi-Fi 版本；起订量和交期需要按项目单独沟通，具体功能与配置根据您的需求确认开发。如有需要，我们也支持 Zigbee 定制开发。
 
-是的 — 雷泽智能定位为中国首家纯 Matter 原生智能家居解决方案提供商，旗下互联产品线均支持 Thread。
+私人定制灯具按实际型号与控制选项确认：非智能三色变光、小爱同学和 Matter over Thread 是不同选项，具体可选组合以该型号配置为准。
 
-## 来源
+请在询价时提供产品型号、目标平台、数量和功能需求。Thread 接入条件见 [FAQ-COM-013](FAQ-COM-013.md)，接入涂鸦与双协议定制的区别见 [FAQ-COM-012](FAQ-COM-012.md)。
 
-- 官网页面: https://www.rez-ti.com/faq
-- 原页面顺序: 10 / 10
-- 获取日期: 2026-11-05
-- [完整来源数据](../sources/2026-11-05-website-faq.json)
+## 适用范围
 
-## 迁移核验备注（不属于官网原文）
+协议主推方向、Wi-Fi 版本免开发费适配及 Zigbee 定制政策适用于私人定制灯具以外的产品线。私人定制灯具单独按型号和控制配置确认；各版本的认证覆盖、产品报价、起订量与交期分别确认。
 
-原文中的“中国首家”和“旗下互联产品线均支持 Thread”属于原网站既有说法，本次只做原文迁移，没有新增验证或批准。按型号确认兼容性的修订建议另见 PR #2。
-
-[查看独立修订草稿 PR #2](https://github.com/ReZ-TI/faq/pull/2)
-
-[对应英文](../en/FAQ-COM-010.md) · [返回目录](README.md)
-
-[对照官网原文存档](../website-original/zh-CN/FAQ-COM-010.md)
+[English](../en/FAQ-COM-010.md) · [返回目录](README.md)

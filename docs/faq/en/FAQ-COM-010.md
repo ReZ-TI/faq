@@ -1,36 +1,25 @@
 ---
 id: FAQ-COM-010
 locale: en
-status: draft
-content_origin: website_original
-source_published: true
-source_url: https://www.rez-ti.com/en/faq
-imported_on: 2026-11-05
-reviewed_by: null
-reviewed_at: null
+status: approved
+audience: public_candidate
+owner: kelvinchen1119
+reviewed_by: kelvinchen1119
+reviewed_at: 2026-11-06
 ---
 
 # FAQ-COM-010 · Are your products Matter and Thread compatible?
 
-> Existing website FAQ · Repository import pending review. The original answer is preserved; this is not a proposed rewrite.
+## Answer
 
-## Original website answer
+Except for our custom lighting range, Matter over Thread is our primary offering. Depending on customer requirements, we can adapt a product to a Matter over Wi-Fi version with no development fee. Minimum order quantity and lead time must be agreed separately for each project, and the required functions and configuration are confirmed during development. Zigbee custom development is also available on request.
 
-Yes — Rez-TI is positioned as China's first pure Matter-native smart home solution provider, with Thread support across our connected product lines.
+For custom lighting, available control options depend on the model. Non-smart three-colour switching, Xiaoai and Matter over Thread are separate options; the combinations offered are confirmed for the selected model.
 
-## Source
+Please include the product model, target platform, quantity and functional requirements in your enquiry. See [FAQ-COM-013](FAQ-COM-013.md) for Thread connectivity requirements and [FAQ-COM-012](FAQ-COM-012.md) for Tuya connectivity and dual-protocol customisation.
 
-- Website: https://www.rez-ti.com/en/faq
-- Original position: 10 / 10
-- Captured on: 2026-11-05
-- [Complete source data](../sources/2026-11-05-website-faq.json)
+## Scope
 
-## Import notes (not part of the original answer)
+The protocol strategy, Wi-Fi adaptation with no development fee and Zigbee custom-development policy apply to product lines other than custom lighting. Custom lighting is confirmed separately by model and control configuration. Certification coverage, product pricing, MOQ and lead time are confirmed for the selected version.
 
-The original claims about being the first provider in China and Thread support across connected product lines are preserved as source text. This import does not newly verify or approve them. A model-specific revision is proposed separately in PR #2.
-
-[Separate revision drafts in PR #2](https://github.com/ReZ-TI/faq/pull/2)
-
-[Chinese original](../zh-CN/FAQ-COM-010.md) · [Back to index](README.md)
-
-[Compare the archived website original](../website-original/en/FAQ-COM-010.md)
+[中文](../zh-CN/FAQ-COM-010.md) · [Index](README.md)

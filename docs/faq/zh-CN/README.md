@@ -1,6 +1,6 @@
-# 官网 FAQ · 中文编辑目录
+# 雷泽 FAQ · 中文
 
-本目录以已合入 main 的 10 条官网原有 FAQ 为编辑基线。本次保持问答正文不变，只建立便于后续提交修改的目录。
+产品选型、协议接入、认证与品牌定制的常见问题。
 
 | 编号 | 问题 |
 |---|---|
@@ -14,7 +14,11 @@
 | FAQ-COM-008 | [发货前会对产品进行测试吗？](FAQ-COM-008.md) |
 | FAQ-COM-009 | [你们的产品具备哪些认证？](FAQ-COM-009.md) |
 | FAQ-COM-010 | [你们的产品是否兼容 Matter 和 Thread？](FAQ-COM-010.md) |
+| FAQ-COM-011 | [你们能做哪些品类？](FAQ-COM-011.md) |
+| FAQ-COM-012 | [你们的 Matter 产品能接入涂鸦吗？](FAQ-COM-012.md) |
+| FAQ-COM-013 | [Matter over Thread 的设备需要网关吗？](FAQ-COM-013.md) |
+| FAQ-COM-014 | [你们的 Matter 产品支持认证转移吗？](FAQ-COM-014.md) |
+| FAQ-COM-015 | [能提供 CE、RoHS 等合规文件吗？](FAQ-COM-015.md) |
+| FAQ-COM-016 | [可以定制外包装和 App 内的品牌标识吗？](FAQ-COM-016.md) |
 
-后续修改请保留编号、来源和中英对应关系，通过 PR 审阅。原有截断和待核验表述在条目中留有备注。
-
-[英文编辑目录](../en/README.md) · [官网原文存档](../website-original/zh-CN/README.md) · [知识库首页](../README.md)
+[English](../en/README.md) · [FAQ 首页](../README.md)
