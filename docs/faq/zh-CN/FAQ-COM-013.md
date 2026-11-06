@@ -1,23 +1,14 @@
 ---
 id: FAQ-COM-013
 locale: zh-CN
-status: draft
+status: approved
 audience: public_candidate
 owner: kelvinchen1119
-evidence_checked_on: 2026-11-06
-reviewed_by: null
-reviewed_at: null
-sources:
-  - https://www.home-assistant.io/integrations/thread/
-  - https://www.home-assistant.io/integrations/zha/
-  - ../sources/README.md
-  - https://support.apple.com/en-ie/102078
-  - https://developer.tuya.com/en/docs/iot/interoperability?id=Kd5alaz2qujgj
+reviewed_by: kelvinchen1119
+reviewed_at: 2026-11-06
 ---
 
 # FAQ-COM-013 · Matter over Thread 的设备需要网关吗？
-
-> 待审核草稿，尚未发布到官网。
 
 ## 答案
 
@@ -31,14 +22,4 @@ sources:
 
 支持 Matter over Thread 的型号；能否免厂商网关取决于现场生态、手机型号与已有边界路由，不能由此推断全部产品在任意环境都免网关。
 
-## 依据与待确认（口径说明，不随答案对外发布）
-
-- 问题来源：近期客户询价中重复出现的问题。
-- 业务确认：负责人 kelvinchen1119 于 2026-11-06 确认兼容涂鸦网关接入路径，以及同时使用 Tuya Zigbee 时推荐 Home Assistant 主机配合我司 Thread Dongle 的方案，见[来源说明](../sources/README.md)。
-- 产品资料核对：我司 Thread Dongle 用于将 Matter over Thread 设备接入 Home Assistant；具体 Zigbee 接入通道按现场设备配套。
-- 公开技术依据：[Home Assistant Thread 接入](https://www.home-assistant.io/integrations/thread/)与 [ZHA / Zigbee 协调器](https://www.home-assistant.io/integrations/zha/)。
-- 公开技术依据：[涂鸦 Matter 互通说明](https://developer.tuya.com/en/docs/iot/interoperability?id=Kd5alaz2qujgj)；Zigbee 接入及 Home Assistant 方案按现场设备评估。
-- 外部依据：Apple 关于从便携设备添加配件的说明 <https://support.apple.com/en-ie/102078>（Thread 机型要求、本地配对与中枢/远程访问的区别）。
-- 待业务确认：各型号定时在设备端还是 App 端；随单是否提供边界路由。
-
-[对应英文](../en/FAQ-COM-013.md) · [返回目录](README.md)
+[English](../en/FAQ-COM-013.md) · [返回目录](README.md)

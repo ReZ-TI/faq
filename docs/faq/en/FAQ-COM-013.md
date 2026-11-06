@@ -1,23 +1,14 @@
 ---
 id: FAQ-COM-013
 locale: en
-status: draft
+status: approved
 audience: public_candidate
 owner: kelvinchen1119
-evidence_checked_on: 2026-11-06
-reviewed_by: null
-reviewed_at: null
-sources:
-  - https://www.home-assistant.io/integrations/thread/
-  - https://www.home-assistant.io/integrations/zha/
-  - ../sources/README.md
-  - https://support.apple.com/en-ie/102078
-  - https://developer.tuya.com/en/docs/iot/interoperability?id=Kd5alaz2qujgj
+reviewed_by: kelvinchen1119
+reviewed_at: 2026-11-06
 ---
 
 # FAQ-COM-013 · Do Matter over Thread devices need a gateway?
-
-> Draft pending review. Not published to the website.
 
 ## Answer
 
@@ -31,14 +22,4 @@ If you also use Tuya Zigbee devices, we recommend adding a Home Assistant host t
 
 Models supporting Matter over Thread. Whether a vendor gateway can be skipped depends on the ecosystem on site, the phone model and the existing border router; this does not imply that all products work without a gateway in any environment.
 
-## Business confirmation and open items (not published with the answer)
-
-- Where the question comes from: a question repeated in recent customer enquiries.
-- Business confirmation: on 2026-11-06, kelvinchen1119 confirmed compatible Tuya-gateway connectivity and the recommendation to use a Home Assistant host with our Thread Dongle when Tuya Zigbee devices are also present. See [Sources](../sources/README.md).
-- Product information checked: our Thread Dongle connects Matter over Thread devices to Home Assistant. The Zigbee connection is configured for the equipment on site.
-- Public technical references: [Home Assistant Thread](https://www.home-assistant.io/integrations/thread/) and [ZHA / Zigbee coordinators](https://www.home-assistant.io/integrations/zha/).
-- Public technical reference: [Tuya Matter interoperability](https://developer.tuya.com/en/docs/iot/interoperability?id=Kd5alaz2qujgj). Zigbee connectivity and any Home Assistant solution are assessed for the site.
-- External reference: Apple support article on adding accessories from a mobile device <https://support.apple.com/en-ie/102078> (Thread-capable model requirements, local pairing versus hub-dependent automation and remote access).
-- Pending business confirmation: whether schedules run on-device or in the app; whether a border router is included with an order.
-
-[Chinese version](../zh-CN/FAQ-COM-013.md) · [Index](README.md)
+[中文](../zh-CN/FAQ-COM-013.md) · [Index](README.md)

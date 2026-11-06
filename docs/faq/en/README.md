@@ -1,6 +1,6 @@
-# Website FAQ · English working directory
+# ReZ-TI FAQ · English
 
-This directory uses the ten existing website FAQs already merged into main as its editing baseline. Revision proposals for FAQ-COM-003 and FAQ-COM-010 and new drafts FAQ-COM-011 to FAQ-COM-016 are in their own files, all `status: draft` and not yet reviewed.
+Common questions about products, connectivity, certification and brand customisation.
 
 | ID | Question |
 |---|---|
@@ -21,8 +21,4 @@ This directory uses the ten existing website FAQs already merged into main as it
 | FAQ-COM-015 | [Can you provide CE and RoHS compliance documents?](FAQ-COM-015.md) |
 | FAQ-COM-016 | [Can you customise packaging and the brand shown in apps?](FAQ-COM-016.md) |
 
-FAQ-COM-011 to FAQ-COM-016 are new drafts in this batch, all pending review and not published to the website.
-
-For updates, preserve the IDs, sources, and language pairing, and submit changes through a PR. Existing source issues remain noted in the entries.
-
-[中文编辑目录](../zh-CN/README.md) · [Archived website originals](../website-original/en/README.md) · [Knowledge base home](../README.md)
+[中文](../zh-CN/README.md) · [FAQ home](../README.md)

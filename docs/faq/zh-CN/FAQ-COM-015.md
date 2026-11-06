@@ -1,19 +1,14 @@
 ---
 id: FAQ-COM-015
 locale: zh-CN
-status: draft
+status: approved
 audience: public_candidate
 owner: kelvinchen1119
-evidence_checked_on: 2026-11-05
-reviewed_by: null
-reviewed_at: null
-sources:
-  - ../sources/README.md
+reviewed_by: kelvinchen1119
+reviewed_at: 2026-11-06
 ---
 
 # FAQ-COM-015 · 能提供 CE、RoHS 等合规文件吗？
-
-> 待审核草稿，尚未发布到官网。
 
 ## 答案
 
@@ -23,10 +18,4 @@ sources:
 
 已按对应标准做过测试的型号。具体标准覆盖范围以该型号实际报告为准，不适用于未测试型号。
 
-## 依据与待确认（口径说明，不随答案对外发布）
-
-- 问题来源：近期客户询价中重复出现的问题。
-- 口径确认：口径待业务确认（可提供的报告范围、能否以客户品牌名义出具）。
-- 说明：未确认期间答案只写「按型号提供」，不列具体标准号，不承诺实验室资质。
-
-[对应英文](../en/FAQ-COM-015.md) · [返回目录](README.md)
+[English](../en/FAQ-COM-015.md) · [返回目录](README.md)

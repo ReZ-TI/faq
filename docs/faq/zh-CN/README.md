@@ -1,6 +1,6 @@
-# 官网 FAQ · 中文编辑目录
+# 雷泽 FAQ · 中文
 
-本目录以已合入 main 的 10 条官网原有 FAQ 为编辑基线。其中 FAQ-COM-003、FAQ-COM-010 的修订建议与 FAQ-COM-011 至 FAQ-COM-016 的新增草稿见对应文件，均为 `status: draft`，未经审核。
+产品选型、协议接入、认证与品牌定制的常见问题。
 
 | 编号 | 问题 |
 |---|---|
@@ -21,8 +21,4 @@
 | FAQ-COM-015 | [能提供 CE、RoHS 等合规文件吗？](FAQ-COM-015.md) |
 | FAQ-COM-016 | [可以定制外包装和 App 内的品牌标识吗？](FAQ-COM-016.md) |
 
-FAQ-COM-011 至 FAQ-COM-016 为本批新增草稿，全部待审核，尚未发布到官网。
-
-后续修改请保留编号、来源和中英对应关系，通过 PR 审阅。原有截断和待核验表述在条目中留有备注。
-
-[英文编辑目录](../en/README.md) · [官网原文存档](../website-original/zh-CN/README.md) · [知识库首页](../README.md)
+[English](../en/README.md) · [FAQ 首页](../README.md)

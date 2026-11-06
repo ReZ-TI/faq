@@ -1,21 +1,14 @@
 ---
 id: FAQ-COM-012
 locale: zh-CN
-status: draft
+status: approved
 audience: public_candidate
 owner: kelvinchen1119
-evidence_checked_on: 2026-11-06
-reviewed_by: null
-reviewed_at: null
-sources:
-  - ../sources/README.md
-  - https://developer.tuya.com/en/docs/iot/interoperability?id=Kd5alaz2qujgj
-  - https://developer.tuya.com/en/docs/iot/Matter_technical_framework?id=Kd5alv7fmhgl9
+reviewed_by: kelvinchen1119
+reviewed_at: 2026-11-06
 ---
 
 # FAQ-COM-012 · 你们的 Matter 产品能接入涂鸦吗？
-
-> 待审核草稿，尚未发布到官网。
 
 ## 答案
 
@@ -27,10 +20,4 @@ sources:
 
 适用于提供 Matter 控制版本的产品。私人定制灯具须先确认实际选择了 Matter 版本。涂鸦接入能力以网关、App、手机系统和设备类型的实际支持为准；具体型号的认证覆盖分别核对。
 
-## 依据与待确认（口径说明，不随答案对外发布）
-
-- 业务确认：负责人 kelvinchen1119 于 2026-11-06 确认 Matter 产品通常可通过兼容涂鸦网关接入；标准版本不同时支持 Tuya Zigbee 与 Matter over Thread，同机双协议须单独定制评估。见[来源说明](../sources/README.md)。
-- 公开技术依据：[涂鸦 Matter 产品互通说明](https://developer.tuya.com/en/docs/iot/interoperability?id=Kd5alaz2qujgj)及 [Matter 架构与平台支持表](https://developer.tuya.com/en/docs/iot/Matter_technical_framework?id=Kd5alv7fmhgl9)。网关及 App/手机系统的支持范围需要核对。
-- 待逐单确认：目标网关、具体设备类型与功能、认证覆盖，以及双协议定制的可行性、费用、起订量和交期。
-
-[对应英文](../en/FAQ-COM-012.md) · [返回目录](README.md)
+[English](../en/FAQ-COM-012.md) · [返回目录](README.md)

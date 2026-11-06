@@ -1,19 +1,14 @@
 ---
 id: FAQ-COM-011
 locale: zh-CN
-status: draft
+status: approved
 audience: public_candidate
 owner: kelvinchen1119
-evidence_checked_on: 2026-11-05
-reviewed_by: null
-reviewed_at: null
-sources:
-  - ../sources/README.md
+reviewed_by: kelvinchen1119
+reviewed_at: 2026-11-06
 ---
 
 # FAQ-COM-011 · 你们能做哪些品类？
-
-> 待审核草稿，尚未发布到官网。
 
 ## 答案
 
@@ -21,12 +16,6 @@ sources:
 
 ## 适用范围
 
-Odoo 产品目录中在册的智能家居类目。具体型号的规格、功能组合与认证须逐条核验，不能由品类名称推断。
+我们提供的智能家居与照明产品中包含外采灯饰。各型号的规格、功能组合和认证以实际资料与确认结果为准。
 
-## 依据与待确认（口径说明，不随答案对外发布）
-
-- 问题来源：近期客户询价中重复出现的问题。
-- 口径确认：品类范围为我司对客业务口径，2026-11-05 销售侧按现行产品目录整理，业务负责人确认待补。
-- 待业务确认：0/1–10V 调光模块、mmWave 存在传感器、Thread 边界路由是否作为独立型号对外提供，未确认前答案只写「按型号评估」。
-
-[对应英文](../en/FAQ-COM-011.md) · [返回目录](README.md)
+[English](../en/FAQ-COM-011.md) · [返回目录](README.md)

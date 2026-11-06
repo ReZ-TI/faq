@@ -1,19 +1,14 @@
 ---
 id: FAQ-COM-011
 locale: en
-status: draft
+status: approved
 audience: public_candidate
 owner: kelvinchen1119
-evidence_checked_on: 2026-11-05
-reviewed_by: null
-reviewed_at: null
-sources:
-  - ../sources/README.md
+reviewed_by: kelvinchen1119
+reviewed_at: 2026-11-06
 ---
 
 # FAQ-COM-011 · Which product categories do you offer?
-
-> Draft pending review. Not published to the website.
 
 ## Answer
 
@@ -21,12 +16,6 @@ Our product range covers smart switches and scene panels, smart sockets, curtain
 
 ## Scope
 
-The smart-home categories available in our product catalogue. This does not imply that every listed item is manufactured by us; the catalogue includes sourced lighting products. Specifications, feature combinations and certifications must be verified model by model and cannot be inferred from a category name.
+Our smart-home and lighting range includes sourced lighting products. Specifications, feature combinations and certifications are confirmed for the individual model.
 
-## Basis and open items (caliber notes, not published with the answer)
-
-- Where the question comes from: a question repeated in recent customer enquiries.
-- Caliber: the category range is our customer-facing business position, compiled by sales on 2026-11-05 from the current product catalogue; business-owner confirmation is still to be added.
-- Pending business confirmation: whether 0/1–10V dimming modules, mmWave presence sensors and Thread border routers are offered as separate models — until confirmed the answer only says "assessed per model".
-
-[Chinese version](../zh-CN/FAQ-COM-011.md) · [Index](README.md)
+[中文](../zh-CN/FAQ-COM-011.md) · [Index](README.md)
