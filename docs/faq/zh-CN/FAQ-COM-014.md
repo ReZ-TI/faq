@@ -4,10 +4,11 @@ locale: zh-CN
 status: draft
 audience: public_candidate
 owner: kelvinchen1119
-evidence_checked_on: 2026-11-05
+evidence_checked_on: 2026-11-06
 reviewed_by: null
 reviewed_at: null
 sources:
+  - https://csa-iot.org/become-member/
   - ../sources/README.md
   - https://csa-iot.org/certification/transfer-program/
 ---
@@ -18,17 +19,19 @@ sources:
 
 ## 答案
 
-符合 CSA 认证转移（CTP）条件的已认证型号，我们可以协助申请。能否转、怎么转，要按原认证主体、具体型号以及相对原认证的改动范围确认；获批后即可在客户品牌下销售该已认证产品。请提供目标型号、计划改动范围与数量，我们据此核对资格并书面回复费用构成。
+支持。我们是 CSA（Connectivity Standards Alliance，连接标准联盟）的 Participant（参与者）会员，我们的已认证 Matter 产品均支持 CTP（Certification Transfer Program，认证转让计划）。
+
+您可以通过 CTP 将产品认证转让到自己的品牌名下，按 CSA 流程获批后以您的品牌销售。请将目标产品、品牌和计划改动告知我们的业务同事，我们会为您制定认证转让方案，并确认办理流程、费用与时间。
 
 ## 适用范围
 
-符合 CSA CTP 条件的已认证型号可协助申请。「已完成 Matter 认证」本身不是充分条件：CSA CTP 还要求认证终端属于该计划参与方（Participant/Promoter 成员）并已登记进该计划、申请方符合资格，且产品相对原认证无功能变化、保持同一设备类型与能力。不符合条件的型号不适用本答复。
+本条“均支持 CTP”指我司已认证的 Matter 产品。办理仍遵循 CSA CTP 条件：认证终端由 Participant / Promoter 会员持有并登记进入计划，申请方符合资格，产品相对原认证无功能变化并保持同一设备类型与能力。未认证新品、非 Matter 商品和改变功能的定制需求需另行确认适用流程。
 
 ## 依据与待确认（口径说明，不随答案对外发布）
 
-- 问题来源：近期客户询价中重复出现的问题。
-- 口径确认：2026-10-29 对客答复已采用「支持认证转移」这一口径，属公司业务口径。
-- 外部依据：CSA 认证转移计划公开规则 <https://csa-iot.org/certification/transfer-program/>（参与方须为 Participant/Promoter 成员并登记、申请方资格、产品相对原认证无功能变化且保持同一设备类型与能力）。
-- 待业务确认：费用口径、按型号是否同价、打包折扣、自持 Vendor ID 与使用我方 DAC 的报价方式。公开答案不出现任何金额。
+- 业务确认：负责人 kelvinchen1119 于 2026-11-06 确认我司为 CSA 第二档会员，且我司 Matter 产品支持 CTP；本问答按已认证 Matter 产品范围整理，见[来源说明](../sources/README.md)。
+- 名称核对：CSA 对应会员等级的官方名称为 Participant，见[CSA 会员说明](https://csa-iot.org/become-member/)；会员身份由负责人本次确认。
+- 公开技术依据：[CSA CTP 规则](https://csa-iot.org/certification/transfer-program/)。
+- 待逐单确认：目标产品与品牌、改动范围、客户资格、办理材料、费用与时间，以及 Vendor ID / DAC 方案。
 
 [对应英文](../en/FAQ-COM-014.md) · [返回目录](README.md)

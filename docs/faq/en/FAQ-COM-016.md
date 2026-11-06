@@ -4,29 +4,34 @@ locale: en
 status: draft
 audience: public_candidate
 owner: kelvinchen1119
-evidence_checked_on: 2026-11-05
+evidence_checked_on: 2026-11-06
 reviewed_by: null
 reviewed_at: null
 sources:
+  - https://csa-iot.org/certification/transfer-program/
   - ../sources/README.md
 ---
 
-# FAQ-COM-016 · Can we use our own app and brand?
+# FAQ-COM-016 · Can you customise packaging and the brand shown in apps?
 
 > Draft pending review. Not published to the website.
 
 ## Answer
 
-Both brand-level and app-level customisation are assessed per project: whether panel markings, packaging and multilingual manuals can carry your brand, whether firmware can be customised on the device side, and whether the app follows our shared app or a white-label path, all have to be confirmed item by item once the target models, user scale and data requirements are known. Please tell us first whether you need your own app listing and whether the data must be fully private, and we will confirm the feasible scope and cost in writing.
+Yes. The outer packaging can be customised for your brand.
+
+To display your own device branding inside an app, our solution requires a Matter certification transfer through CTP. Please contact our sales team with the target product, brand details and the app you use. We will prepare a tailored plan for packaging, certification transfer and brand presentation. The exact display depends on the target app's presentation rules and the implementation.
+
+See [FAQ-COM-014](FAQ-COM-014.md) for certification-transfer conditions and the process.
 
 ## Scope
 
-Assessed per project; this is not a general commitment for any model. Whether a given model supports firmware customisation or a white-label app depends on the assessment.
+Outer-packaging customisation and the branding of Matter devices shown in a target app. Certification transfers follow CTP rules. Independent app development, white-label apps and private hosting are separate requirements to discuss and assess.
 
-## Basis and open items (caliber notes, not published with the answer)
+## Business confirmation and open items (not published with the answer)
 
-- Where the question comes from: a question repeated in recent customer enquiries.
-- Caliber: pending business confirmation (what brand-level customisation is available, whether a white-label app is offered, fees and data ownership).
-- Note: while unconfirmed the answer only says "assessed per project" and promises no specific customisation item.
+- Business confirmation: on 2026-11-06, kelvinchen1119 confirmed custom outer packaging and certification transfer for in-app device branding, with a tailored plan provided by our sales team. See [Sources](../sources/README.md).
+- Public technical reference: [CSA CTP](https://csa-iot.org/certification/transfer-program/) covers re-certification under a customer's brand. In-app branding is part of our delivery plan; the actual presentation must be confirmed for the target app.
+- Confirm per project: packaging design, target app, brand details, certification-transfer materials, displayed content, cost and lead time.
 
 [Chinese version](../zh-CN/FAQ-COM-016.md) · [Index](README.md)

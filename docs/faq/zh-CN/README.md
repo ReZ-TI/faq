@@ -19,7 +19,7 @@
 | FAQ-COM-013 | [Matter over Thread 的设备需要网关吗？](FAQ-COM-013.md) |
 | FAQ-COM-014 | [你们的 Matter 产品支持认证转移吗？](FAQ-COM-014.md) |
 | FAQ-COM-015 | [能提供 CE、RoHS 等合规文件吗？](FAQ-COM-015.md) |
-| FAQ-COM-016 | [能不能用我们自己的 App 和品牌？](FAQ-COM-016.md) |
+| FAQ-COM-016 | [可以定制外包装和 App 内的品牌标识吗？](FAQ-COM-016.md) |
 
 FAQ-COM-011 至 FAQ-COM-016 为本批新增草稿，全部待审核，尚未发布到官网。
 

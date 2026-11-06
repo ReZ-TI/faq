@@ -19,7 +19,7 @@ This directory uses the ten existing website FAQs already merged into main as it
 | FAQ-COM-013 | [Do Matter over Thread devices need a gateway?](FAQ-COM-013.md) |
 | FAQ-COM-014 | [Do you support Matter certification transfer?](FAQ-COM-014.md) |
 | FAQ-COM-015 | [Can you provide CE and RoHS compliance documents?](FAQ-COM-015.md) |
-| FAQ-COM-016 | [Can we use our own app and brand?](FAQ-COM-016.md) |
+| FAQ-COM-016 | [Can you customise packaging and the brand shown in apps?](FAQ-COM-016.md) |
 
 FAQ-COM-011 to FAQ-COM-016 are new drafts in this batch, all pending review and not published to the website.
 
