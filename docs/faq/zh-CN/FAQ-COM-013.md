@@ -24,10 +24,11 @@ sources:
 
 支持 Matter over Thread 的型号；能否免厂商网关取决于现场生态、手机型号与已有边界路由，不能由此推断全部产品在任意环境都免网关。
 
-## 依据与待确认（内部核验，不随答案对外发布）
+## 依据与待确认（口径说明，不随答案对外发布）
 
-- 依据（公开）：Apple 官方便携设备接入说明 <https://support.apple.com/en-ie/102078>（Thread 机型要求、本地配对与中枢/远程访问的区别）。
-- 依据（受限）：内部核验台账 **FAQ-EVID-2026-11-05 §3** —— 2026-10 对外答复口径（Matter over Thread 直连 Apple Home、Tuya Zigbee 需 HA 主机加网关），受权限控制，不随本仓库公开。
-- 待确认：各型号本地定时在设备端还是 App 端；随单是否提供边界路由，需产品线确认。
+- 问题来源：近期客户询价中重复出现的问题。
+- 口径确认：2026-10-29 对客答复已采用此口径（Matter over Thread 可直连支持 Thread 的生态；Tuya Zigbee 建议配 Home Assistant 主机加 Zigbee 网关），属公司业务口径。
+- 外部依据：Apple 关于从便携设备添加配件的说明 <https://support.apple.com/en-ie/102078>（Thread 机型要求、本地配对与中枢/远程访问的区别）。
+- 待业务确认：各型号定时在设备端还是 App 端；随单是否提供边界路由。
 
 [对应英文](../en/FAQ-COM-013.md) · [返回目录](README.md)
