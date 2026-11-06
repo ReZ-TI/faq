@@ -24,10 +24,11 @@ For certified models that meet the conditions of the CSA Certification Transfer 
 
 Assistance is available for certified models that meet CSA CTP conditions. Holding Matter certification alone is not sufficient: the CTP also requires that the certification terminal is held by a member participating in the programme (Participant/Promoter) and is registered in it, that the applicant meets the eligibility criteria, and that the product is unchanged in function and keeps the same device type and capabilities. Models that do not meet these conditions are outside this answer.
 
-## Basis and open items (internal verification, not published with the answer)
+## Basis and open items (caliber notes, not published with the answer)
 
-- Basis (public): CSA certification transfer programme description <https://csa-iot.org/certification/transfer-program/> (participant eligibility, membership and registration requirements, unchanged product and same device type).
-- Basis (restricted): internal evidence ledger **FAQ-EVID-2026-11-05 §5** — October 2026 outbound position (CTP supported), not published here.
-- Open: fee level and whether it is uniform per model, package discounts, and how customer-held Vendor ID versus our DAC would be quoted; the CSA annual fee is a third-party fee not collected by us. **No amount appears in the public answer.**
+- Where the question comes from: a question repeated in recent customer enquiries.
+- Caliber: the "certification transfer supported" position was already used in a customer reply on 2026-10-29. It is a company business position.
+- External reference: the public CSA Certification Transfer Program rules <https://csa-iot.org/certification/transfer-program/> (the certification terminal must be held by a Participant/Promoter member and registered in the programme, the applicant must meet the eligibility criteria, and the product must be unchanged in function and keep the same device type and capabilities).
+- Pending business confirmation: fee level, whether it is uniform per model, package discounts, and how customer-held Vendor ID versus our DAC would be quoted. No amount appears in the public answer.
 
 [Chinese version](../zh-CN/FAQ-COM-014.md) · [Index](README.md)

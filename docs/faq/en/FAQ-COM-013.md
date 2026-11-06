@@ -24,10 +24,11 @@ It depends on whether the site already has a compatible Thread border router —
 
 Models supporting Matter over Thread. Whether a vendor gateway can be skipped depends on the ecosystem on site, the phone model and the existing border router; this does not imply that all products work without a gateway in any environment.
 
-## Basis and open items (internal verification, not published with the answer)
+## Basis and open items (caliber notes, not published with the answer)
 
-- Basis (public): Apple support article on adding accessories from a mobile device <https://support.apple.com/en-ie/102078> (Thread-capable model requirements; local pairing versus hub-dependent automation and remote access).
-- Basis (restricted): internal evidence ledger **FAQ-EVID-2026-11-05 §3** — October 2026 outbound position (Matter over Thread joins Apple Home directly; Tuya Zigbee needs a Home Assistant host plus Zigbee gateway), not published here.
-- Open: whether schedules run on-device or in the app varies by model; whether a border router is included with an order needs product-line confirmation.
+- Where the question comes from: a question repeated in recent customer enquiries.
+- Caliber: this position was already used in a customer reply on 2026-10-29 (Matter over Thread joins Thread-capable ecosystems directly; Tuya Zigbee is paired with a Home Assistant host and Zigbee gateway). It is a company business position.
+- External reference: Apple support article on adding accessories from a mobile device <https://support.apple.com/en-ie/102078> (Thread-capable model requirements, local pairing versus hub-dependent automation and remote access).
+- Pending business confirmation: whether schedules run on-device or in the app; whether a border router is included with an order.
 
 [Chinese version](../zh-CN/FAQ-COM-013.md) · [Index](README.md)
