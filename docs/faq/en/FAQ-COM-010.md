@@ -31,11 +31,10 @@ Compatibility must be confirmed for the specific model, specification and contro
 
 A proposed replacement for the broad wording in website FAQ item 10. Individual capabilities remain subject to the selected SKU's documentation and confirmation.
 
-## Basis and open items (internal verification, not published with the answer)
+## Basis and open items (caliber notes, not published with the answer)
 
-- Basis: the original website answer above and [Sources](../sources/README.md).
-- This change: keeps the original "confirm per model" conclusion and adds how to choose between the Wi-Fi and Thread versions, including the border-router requirement, so the answer no longer implies hub-free operation.
-- Removed: the unverified claims about being the first provider in China and Thread support across all connected product lines.
-- Open: the protocol-version coverage list per model.
+- Where the question comes from: a question repeated in recent customer enquiries.
+- Caliber: confirming compatibility per model is our customer-facing position, in use since 2026-11-05; the original claims about being China's first provider and Thread support across all connected lines are not business-confirmed and are left out of the proposed answer.
+- External reference: Apple requirements for Thread-capable models and hubs <https://support.apple.com/en-ie/102078>.
 
 [Chinese version](../zh-CN/FAQ-COM-010.md) · [Index](README.md)
