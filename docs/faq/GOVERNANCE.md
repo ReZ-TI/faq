@@ -25,6 +25,7 @@ GitHub 合并与 Odoo 官网发布分别执行；当前未配置 Odoo、Nextclou
 | 内容 | 状态 | 内容确认人 / 日期 | 官网同步 |
 |---|---|---|---|
 | FAQ-COM-003、FAQ-COM-010 至 FAQ-COM-016，中英各一份 | approved | kelvinchen1119 / 2026-11-06，[PR #6](https://github.com/ReZ-TI/faq/pull/6) | 已同步，2026-11-06 |
+| FAQ-COM-017，中英各一份 | approved | kelvinchen1119 / 2026-11-07，[PR #8](https://github.com/ReZ-TI/faq/pull/8) | 已同步，2026-11-07 |
 
 官网历史原文和来源快照保存在原有存档目录；旧稿及修订过程可通过 PR 与提交记录追溯。
 
@@ -33,5 +34,6 @@ GitHub 合并与 Odoo 官网发布分别执行；当前未配置 Odoo、Nextclou
 | 发布时间（北京时间） | 内容版本 | 官网地址 | 发布与核对结果 |
 |---|---|---|---|
 | 2026-11-06 14:50 | [2647828](https://github.com/ReZ-TI/faq/commit/26478284af2632ad4213b2992e309cd8e963546a)，[PR #6](https://github.com/ReZ-TI/faq/pull/6) | [中文](https://www.rez-ti.com/faq) · [English](https://www.rez-ti.com/en/faq) | 两种语言各 16 条；更新 FAQ-COM-003、010，新增 011 至 016，其余 8 条保持原文。 |
+| 2026-11-07 11:39 | [4e00e5a](https://github.com/ReZ-TI/faq/commit/4e00e5a4f82e9c50b7d8c01a38da0b4994d76b9a)，[PR #8](https://github.com/ReZ-TI/faq/pull/8) | [中文](https://www.rez-ti.com/faq#faq-com-017) · [English](https://www.rez-ti.com/en/faq#faq-com-017) | 两种语言各 17 条。新增 FAQ-COM-017，已核对正文及在线烧录、联系链接。 |
 
 已核对中英文线上全部问答与发布版本一致，折叠问答显示正常。官网正文仅包含对客答案与适用条件，未带入修改理由、审核说明或草稿标记。
