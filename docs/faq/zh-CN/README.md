@@ -20,5 +20,6 @@
 | FAQ-COM-014 | [你们的 Matter 产品支持认证转移吗？](FAQ-COM-014.md) |
 | FAQ-COM-015 | [能提供 CE、RoHS 等合规文件吗？](FAQ-COM-015.md) |
 | FAQ-COM-016 | [可以定制外包装和 App 内的品牌标识吗？](FAQ-COM-016.md) |
+| FAQ-COM-017 | [你们提供 Matter 开发套件（DevKit）吗？可以用它做二次开发或平台对接吗？](FAQ-COM-017.md) |
 
 [English](../en/README.md) · [FAQ 首页](../README.md)
