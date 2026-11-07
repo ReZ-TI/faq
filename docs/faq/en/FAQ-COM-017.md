@@ -1,29 +1,21 @@
 ---
 id: FAQ-COM-017
 locale: en
-status: draft
-audience: internal
+status: approved
+audience: public_candidate
 owner: kelvinchen1119
-evidence_checked_on: null
-reviewed_by: null
-reviewed_at: null
-sources: []
+reviewed_by: kelvinchen1119
+reviewed_at: 2026-11-07
 ---
 
-# FAQ-COM-017 · Do you provide a development kit (DevKit), SDK or open interfaces for secondary development or platform integration?
+# FAQ-COM-017 · Do you offer a Matter DevKit for product development or platform integration?
 
 ## Answer
 
-Samples of current models can be provided first for evaluation. The exact availability of development kits, interface documentation, firmware material and local-control capabilities is confirmed per target model and project; additional functions are assessed as a separate custom-development request. Please tell us the target model, the platform you need to integrate with (for example Apple Home, Tuya, Home Assistant or your own platform), the interface type required and the quantity, and we will confirm what documentation and solution can be provided.
+ReZ-TI offers its own **Matter over Thread DevKit**. The standard kit includes five ESP32-H2 development modules, one USB-C programmer board, and one programming probe. Use the [ReZ-TI online flashing tool (rpp.rez-ti.com/#/try-matter)](https://rpp.rez-ti.com/#/try-matter) to select and flash compatible application firmware. Then follow the pinout and flashing guides to test commissioning and device functions for smart switches, lighting, curtain motors, and presence sensors.
 
-## Scope
+If you plan to integrate with Apple Home, Home Assistant, or another platform, tell us which device and functions you want to test. We’ll help identify suitable firmware and an integration setup. **If your product is outside the DevKit’s supported range, you can [contact us directly](https://www.rez-ti.com/en/contactus)** so we can review your requirements and suggest a suitable solution.
 
-Applies to the current Matter product lines, including Matter over Thread and Matter over Wi-Fi versions. Custom lighting, white-label apps and private deployment are confirmed per project. This entry does not mean every model offers an open API, or that every model runs without a vendor cloud.
+For integration with your own platform, Matter over Wi-Fi, SDKs, open APIs, source code, or custom firmware, we confirm availability and usage rights based on the target model and project.
 
-## Internal verification notes (not for public publication)
-
-- Source category: development and integration questions that recurred across recent customer enquiries; original records are verified in restricted systems and are not stored in this repository.
-- To be confirmed: which current models can provide a standard DevKit and interface documentation; whether an open API is offered and on what licence terms; the available scope for white-label apps and private deployment.
-- Draft only, not confirmed by sales or technical support. Must not be published externally or used to quote prices or commit lead times.
-
-[Chinese version](../zh-CN/FAQ-COM-017.md) · [Back to index](README.md)
+[中文](../zh-CN/FAQ-COM-017.md) · [Back to index](README.md)

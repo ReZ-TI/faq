@@ -20,5 +20,6 @@ Common questions about products, connectivity, certification and brand customisa
 | FAQ-COM-014 | [Do you support Matter certification transfer?](FAQ-COM-014.md) |
 | FAQ-COM-015 | [Can you provide CE and RoHS compliance documents?](FAQ-COM-015.md) |
 | FAQ-COM-016 | [Can you customise packaging and the brand shown in apps?](FAQ-COM-016.md) |
+| FAQ-COM-017 | [Do you offer a Matter DevKit for product development or platform integration?](FAQ-COM-017.md) |
 
 [中文](../zh-CN/README.md) · [FAQ home](../README.md)
