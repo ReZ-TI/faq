@@ -25,7 +25,7 @@ We provide the applicable compliance documents per model, including test reports
 
 ## Scope
 
-Models tested against the relevant standards. Exact standard coverage and local certification requirements depend on the actual report for that model and on the regulations of your destination country, and do not extend to untested models.
+Models tested against the relevant standards. Exact standard coverage and local certification requirements depend on the actual report for that model and on the regulations of the target countries and regions of sale or deployment, and do not extend to untested models.
 
 ## Basis and open items (caliber notes, not published with the answer)
 

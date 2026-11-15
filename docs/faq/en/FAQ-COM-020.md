@@ -17,7 +17,7 @@ sources:
 
 ## Answer
 
-We can sign an NDA. The usual arrangement: designs and materials you provide remain yours; general technology and our existing platforms developed in the project remain ours; tooling and fixtures developed specifically for the project have ownership, cost and transfer terms agreed per project, commonly transferring to the customer once tooling costs are settled or shared by agreement. Final terms are set in the NDA and development agreement both sides sign.
+We can sign an NDA. Designs and materials you provide remain yours; general technology and our existing platforms developed in the project remain ours. Ownership, use and transfer conditions for tooling and fixtures are agreed in writing by both parties for each project. Final terms are set in the NDA and development agreement both sides sign.
 
 ## Scope
 
@@ -27,6 +27,6 @@ Agreed per project. This answer is not a standard clause and not a general commi
 
 - Where the question comes from: a question repeated in recent customer enquiries.
 - Caliber: signing NDAs and agreeing IP and tooling ownership per project is our customer-facing business position.
-- Pending business confirmation: the standard NDA template, tooling transfer details after payment and shared-ownership terms need legal and business confirmation.
+- Pending business confirmation: the standard NDA template and the specific terms for ownership, use and transfer of tooling and fixtures need legal and business confirmation.
 
 [Chinese version](../zh-CN/FAQ-COM-020.md) · [Index](README.md)
