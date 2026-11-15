@@ -17,7 +17,7 @@ sources:
 
 ## Answer
 
-Yes. We can take on prototyping and small-batch pilot runs, and support feasibility assessment, mechanical and electrical recommendations and design-for-manufacture feedback. Whether we can do it, how long it takes and how NRE is calculated depend on product complexity, the engineering scope we take on and the materials involved, so a written quotation follows once we have a requirements brief or drawings. Please send the requirement description, target quantity, timing and how far you want us to go: electronics only, module level, or complete unit.
+Yes. We can take on prototyping and small-batch pilot runs, and support feasibility assessment, mechanical and electrical recommendations and design-for-manufacture feedback. Engineering fees (NRE) typically start at USD 3,000; the final figure is assessed separately against product complexity, the engineering scope we take on and the materials involved, and lead time varies with scope. Please send the requirement description, target quantity, timing and how far you want us to go: electronics only, module level, or complete unit. We will quote formally once we have the requirements.
 
 ## Scope
 
@@ -26,7 +26,7 @@ Assessed per project. Standard models already in mass production do not go throu
 ## Basis and open items (caliber notes, not published with the answer)
 
 - Where the question comes from: a question repeated in recent customer enquiries.
-- Caliber: accepting prototyping and pilot production is our customer-facing business position.
-- Pending business confirmation: minimum pilot quantity, NRE pricing model and lead times are not standardised; no amount or lead-time commitment appears in the public answer.
+- Caliber: accepting prototyping and pilot production, and NRE starting at USD 3,000, are customer-facing positions confirmed by the business owner.
+- Pending business confirmation: the minimum scope that the USD 3,000 covers, minimum pilot quantity, whether structural or certification work is included, and lead time per tier. These details are not extended before a quotation.
 
 [Chinese version](../zh-CN/FAQ-COM-019.md) · [Index](README.md)
