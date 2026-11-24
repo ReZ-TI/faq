@@ -21,7 +21,7 @@ Yes. We assess regional distribution, reseller and installation-service partners
 
 ## Scope
 
-Open for discussion in all markets except those already granted exclusivity. This answer is not a territory commitment and contains no pricing terms.
+Whether we open a partnership and whether a territory can be granted exclusively are assessed case by case against existing channel arrangements, and confirmed in writing by both sides. This answer is not a territory commitment and contains no pricing terms.
 
 ## Basis and open items (caliber notes, not published with the answer)
 

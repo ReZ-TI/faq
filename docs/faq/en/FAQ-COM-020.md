@@ -17,7 +17,7 @@ sources:
 
 ## Answer
 
-We can sign an NDA. Designs and materials you provide remain yours; general technology and our existing platforms developed in the project remain ours. Ownership, use and transfer conditions for tooling and fixtures are agreed in writing by both parties for each project. Final terms are set in the NDA and development agreement both sides sign.
+We can sign an NDA. Each side retains the intellectual property it already owned; ownership and usage rights of results newly created in the project are agreed in writing per project. Ownership, use and transfer conditions for tooling and fixtures are likewise agreed in writing per project. Final terms are set in the NDA and development agreement both sides sign.
 
 ## Scope
 
