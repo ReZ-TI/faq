@@ -7,13 +7,9 @@ owner: kelvinchen1119
 evidence_checked_on: 2026-11-15
 reviewed_by: null
 reviewed_at: null
-sources:
-  - ../sources/README.md
 ---
 
 # FAQ-COM-021 · 你们能做整机机电装配，还是只做部分部件？
-
-> 待审核草稿，尚未发布到官网。
 
 ## 答案
 
@@ -23,10 +19,4 @@ sources:
 
 按项目与型号评估；不表示所有品类都能承接整机装配。
 
-## 依据与待确认（口径说明，不随答案对外发布）
-
-- 问题来源：近期客户询价中重复出现的问题。
-- 口径确认：电控到整机装配均可洽谈，为我司对客业务口径。
-- 待业务确认：各产线可承接的装配工序、整机测试能力与产能待生产侧确认。
-
-[对应英文](../en/FAQ-COM-021.md) · [返回目录](README.md)
+[English](../en/FAQ-COM-021.md) · [返回目录](README.md)
