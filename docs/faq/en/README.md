@@ -21,5 +21,9 @@ Common questions about products, connectivity, certification and brand customisa
 | FAQ-COM-015 | [Can you provide CE and RoHS compliance documents?](FAQ-COM-015.md) |
 | FAQ-COM-016 | [Can you customise packaging and the brand shown in apps?](FAQ-COM-016.md) |
 | FAQ-COM-017 | [Do you offer a Matter DevKit for product development or platform integration?](FAQ-COM-017.md) |
+| FAQ-COM-018 | [Do you accept regional distributors or resellers?](FAQ-COM-018.md) |
+| FAQ-COM-019 | [Do you support prototyping and small-batch pilot production? How is NRE priced?](FAQ-COM-019.md) |
+| FAQ-COM-020 | [How do you handle NDAs, IP and tooling ownership?](FAQ-COM-020.md) |
+| FAQ-COM-021 | [Can you handle complete electromechanical assembly, or only certain parts?](FAQ-COM-021.md) |
 
 [中文](../zh-CN/README.md) · [FAQ home](../README.md)

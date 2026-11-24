@@ -16,6 +16,6 @@ Our product range covers smart switches and scene panels, smart sockets, curtain
 
 ## Scope
 
-Our smart-home and lighting range includes sourced lighting products. Specifications, feature combinations and certifications are confirmed for the individual model.
+Our smart-home and lighting range includes sourced lighting products. Specifications, feature combinations and certifications are confirmed for the individual model. For regional distribution, reseller or installation-service partnerships, see our [regional partnership FAQ](FAQ-COM-018.md).
 
 [中文](../zh-CN/FAQ-COM-011.md) · [Index](README.md)

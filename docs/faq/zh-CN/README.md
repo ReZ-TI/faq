@@ -21,5 +21,9 @@
 | FAQ-COM-015 | [能提供 CE、RoHS 等合规文件吗？](FAQ-COM-015.md) |
 | FAQ-COM-016 | [可以定制外包装和 App 内的品牌标识吗？](FAQ-COM-016.md) |
 | FAQ-COM-017 | [你们提供 Matter 开发套件（DevKit）吗？可以用它做二次开发或平台对接吗？](FAQ-COM-017.md) |
+| FAQ-COM-018 | [你们接受区域代理或经销合作吗？](FAQ-COM-018.md) |
+| FAQ-COM-019 | [支持小批量试产和原型打样吗？NRE 怎么算？](FAQ-COM-019.md) |
+| FAQ-COM-020 | [NDA、知识产权和模具归属怎么谈？](FAQ-COM-020.md) |
+| FAQ-COM-021 | [你们能做整机机电装配，还是只做部分部件？](FAQ-COM-021.md) |
 
 [English](../en/README.md) · [FAQ 首页](../README.md)
