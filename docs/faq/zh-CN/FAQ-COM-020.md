@@ -1,12 +1,12 @@
 ---
 id: FAQ-COM-020
 locale: zh-CN
-status: draft
+status: approved
 audience: public_candidate
 owner: kelvinchen1119
 evidence_checked_on: 2026-11-15
-reviewed_by: null
-reviewed_at: null
+reviewed_by: kelvinchen1119
+reviewed_at: 2026-11-24
 ---
 
 # FAQ-COM-020 · NDA、知识产权和模具归属怎么谈？

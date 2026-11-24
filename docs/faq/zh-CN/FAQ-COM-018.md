@@ -1,12 +1,12 @@
 ---
 id: FAQ-COM-018
 locale: zh-CN
-status: draft
+status: approved
 audience: public_candidate
 owner: kelvinchen1119
 evidence_checked_on: 2026-11-15
-reviewed_by: null
-reviewed_at: null
+reviewed_by: kelvinchen1119
+reviewed_at: 2026-11-24
 ---
 
 # FAQ-COM-018 · 你们接受区域代理或经销合作吗？
